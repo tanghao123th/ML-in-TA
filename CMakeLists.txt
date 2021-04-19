@@ -8,4 +8,4 @@ project (example)
 
 # Add an executable
 add_executable(example main.cpp)
-# Or add_executable(${PROJECT_NAME} main.cpp)
+# Or add_executable(${PROJECT_NAME} test.cpp)
